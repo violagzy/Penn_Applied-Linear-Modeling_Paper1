@@ -1,10 +1,11 @@
 # Penn_Applied-Linear-Modeling_Paper1
 
-__MSSP__
+__MSSP 897 Fall 2019__
 
-__Dr Ezekiel Dixon-Román__
+_Dr Ezekiel Dixon-Román_
 
-__Dr Ama Nyame-Mensah__
+_Dr Ama Nyame-Mensah_
+
 
 ***Policy Paper 1: Multiple Regression***
 
